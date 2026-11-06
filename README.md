@@ -1,6 +1,6 @@
 # AI Drama Skill · AI 影视短剧创作技能集
 
-![Skills](https://img.shields.io/badge/skills-19-blue) ![Language](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-success) ![Type](https://img.shields.io/badge/type-prompt--workflows-informational) ![PRs](https://img.shields.io/badge/PRs-welcome-orange)
+![Skills](https://img.shields.io/badge/skills-19-blue) ![Language](https://img.shields.io/badge/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-success) ![Type](https://img.shields.io/badge/type-prompt--workflows-informational) ![PRs](https://img.shields.io/badge/PRs-welcome-orange) ![License](https://img.shields.io/badge/license-MIT-yellow)
 
 > **一句话**：从一句创意，到能直接投喂 AI 生成的剧本、资产与分镜——19 个覆盖影视前期全流程的中文工作流技能。
 
@@ -138,6 +138,7 @@ flowchart LR
 
 ```text
 AI_Drama_Skill/
+├── LICENSE                        # MIT 许可证
 ├── README.md                     # 本文件
 ├── 影视编剧创作.md                # ① 剧本
 ├── 影视剧本原创改编.md            # ① 剧本
